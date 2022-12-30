@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tg4967.github.io/blog</id>
     <title>Tian Gang 的官方网站 Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2022-12-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tg4967.github.io/blog"/>
     <subtitle>Tian Gang 的官方网站 Blog</subtitle>
     <icon>https://tg4967.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[高兴诗]]></title>
+        <id>happy</id>
+        <link href="https://tg4967.github.io/blog/happy"/>
+        <updated>2022-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天天气真不错，不错不错真不错！]]></summary>
+        <content type="html"><![CDATA[<p>今天天气真不错，不错不错真不错！</p>]]></content>
+        <author>
+            <name>Tian Gang</name>
+            <uri>https://github.com/</uri>
+        </author>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>
